@@ -10,7 +10,7 @@ The goal is to classify the images and train a model to predict any unseen image
 - Validation data 3,000 image 
 - Testing data 7,000 image
 
-**Target labels: ** (buildings, forest, glacier, mountain, sea, street)
+**Target labels:**  (buildings, forest, glacier, mountain, sea, street)
 
 ```
 📦Dataset
@@ -34,7 +34,7 @@ The goal is to classify the images and train a model to predict any unseen image
  ┃ ┃ ┗ 📂street
 ```
 
-**Source of data: **[Intel Image Classification | Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
+**Source of data:** [Intel Image Classification | Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
 
 
 
